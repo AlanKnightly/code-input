@@ -1,0 +1,9 @@
+{
+  "name": "code-input",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AlanKnightly/code-input.git",
+  "author": "shenjiangping <shenjiangping@sdbattery.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
